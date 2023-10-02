@@ -1,2 +1,2 @@
-# smproject
+# social media project
  
